@@ -7,7 +7,7 @@
         public double z;
         public override string ToString()
         {
-            return $"{nameof(x)} = {x}, {nameof(y)} = {y} {nameof(y)} = {z}";
+            return $"Point: {nameof(x)} = {x}, {nameof(y)} = {y} {nameof(y)} = {z}";
         }
     }
 }
