@@ -1,4 +1,4 @@
-﻿Point2D point = new Point2D() { x = 2, y = 3};
+﻿Point2D point = new Point2D() { x = 2, y = 2};
 Console.WriteLine(point.ToString());
 class Point2D
 {
