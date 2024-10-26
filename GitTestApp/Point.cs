@@ -12,4 +12,7 @@
             return $"Point: {nameof(x)} = {x}, {nameof(y)} = {y} {nameof(y)} = {z} {nameof(w)} = {w} {nameof(w)} = {w}";
         }
     }
+    internal class Matrix
+    {
+    }
 }
